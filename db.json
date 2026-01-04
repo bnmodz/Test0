@@ -1,0 +1,13 @@
+{
+"users": [
+    {
+      "username": "DENZI1",
+      "password": "DENZI",
+      "hwid": "EFJ5W8TNC45CZ55XBF710UMT4OIIQU7V",
+      "expiry": 9999999999999,
+      "rank": "OWNER",
+      "status": "ACTIVE",
+      "activated_at": "2026-01-01T14:15:08.143806"
+    }
+    ]
+}
